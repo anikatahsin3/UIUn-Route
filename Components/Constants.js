@@ -1,0 +1,8 @@
+export const green = '#2BB789'
+export const transDarkGreen = '#006A4290'
+export const darkGreen = '#006A52'
+export const transGray = '#00000085'
+export const transWhite = '#F0F0F090'
+export const busOrange = '#FF725E'
+export const transOrange = '#FF725E50'
+export const fullTrans = '#FFFFFF00'
