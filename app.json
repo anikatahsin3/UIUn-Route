@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "UIU nRoute",
+    "slug": "UIU_nRoute",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.mrokibh7.UIU_nRoute"
+    },
+    "web": {
+      "favicon": "./assets/icon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "847d6f12-dab3-4682-a843-c32c3d4b8911"
+      }
+    },"androidStatusBar":{
+      "translucent":true
+    }
+  }
+}
